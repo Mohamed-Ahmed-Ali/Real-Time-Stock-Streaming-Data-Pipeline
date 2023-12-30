@@ -16,8 +16,8 @@ The Real-Time Stock Streaming Data Pipeline is a comprehensive project designed 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Mohamed-Ahmed-Ali/real-time-streaming-pipeline.git
-    cd real-time-streaming-pipeline
+    git clone https://github.com/Mohamed-Ahmed-Ali/Real-Time-Stock-Streaming-Data-Pipeline.git
+    cd Real-Time-Stock-Streaming-Data-Pipeline
     ```
 
 2. Set up your Finnhub API token in the `terraform-k8s/config.tf` file.
